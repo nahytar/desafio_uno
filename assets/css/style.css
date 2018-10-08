@@ -1,0 +1,22 @@
+.textarea {
+  width: 100%;
+  height: 50vh;
+}
+
+.areaWriteComment {
+  margin: auto;
+}
+
+.comments {
+  width: 70%;
+  height: 30vh;
+  background-color: whitesmoke;
+}
+
+.areaPrintComment {
+  margin: auto;
+}
+
+.btn {
+  height: 3em;
+}
